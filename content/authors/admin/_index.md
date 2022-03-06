@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yao Duan
+title: Yao Duan(段尧)
 
 # Is this the primary user of the site?
 superuser: true
