@@ -30,7 +30,7 @@ education:
   - course: MEng in Computer Science & Technology
     institution: National University of Defense Technology
     year: 2019
-  - course: BSc in Network Engineering
+  - course: BEng in Network Engineering
     institution: Southwest University
     year: 2016
 
