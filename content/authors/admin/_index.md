@@ -63,6 +63,6 @@ email: duanyao16@nudt.edu.cn
 highlight_name: true
 ---
 
-Yao Duan is a Ph.D. Candidate of 3D Vison at the [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/). Her research interests include computer vision and computer graphics. She is supervised by Yueshan Xiong and [Kai Xu](http://kevinkaixu.net/index.html).
+Yao Duan is a Ph.D. candidate of 3D Vison at the [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn/). Her research interests include computer vision and computer graphics. She is supervised by Yueshan Xiong and [Kai Xu](http://kevinkaixu.net/index.html).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
